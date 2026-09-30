@@ -1,0 +1,441 @@
+ITEM_NUMBER|DESCRIPTION
+1|Återvinningsavgift
+2|Återvinningsavgift
+3|Återvinningsavgift
+4|Återvinningsavgift
+17|Frakt
+20|Fälgband
+25|Mönsterskärning
+26|Mönsterskärning
+30|Offererat pris
+35|Sajpning
+36|Sajpning
+37|Sajpning
+40|Dubbning 17-12
+41|Kompletteringsdubbning
+100016SL|10.00-16 Slang TR15
+100020SLCO|10.00-20 Slang CO 127D-Z
+10165SL|10-16.5 Slang TR15
+1040|Slang
+1044|Däckfyllning
+1048|Fälg
+1049|Däck
+1050|Förbrukningsartiklar
+10SL|145-10 Slang TR13
+114005SL|11x4.00-5 Slang TR87
+11580153SL|11.5/80-15.3 Slang TR15
+120020LBKTPTHD|12.00-20 28pr Truckdäck Luftg BKT PT HD
+120020LCO|12.00x20 20pr TruckdäckLuftgIC40
+120020LCORT20|1200R20 Truckdäck Luftg CORT20
+120020LTR9|12.00-20 20pr Truckdäck Luftg TR9
+120020SL|12.00x20 Slang 127D-Z
+120020SLCO|12.00-20 Slang CO 127D-Z
+120024SL|1200-24 Slang V30215
+12165SL|12-16.5 Slang TR15
+125406020ATA|125x40/60-20 Stödhjul VU
+125758EBAS|125/75-8 Truckdäck Elast BA sit
+125758ECO20|125/75-8 Truckdäck Elast CO SC20
+125758ECO20NM|125/75-8 Truckdäck Elast CO SC20 NM
+125758ECOS20|125/75-8 Truckdäck Elast CO SC20 sit
+125758ECOS20NM|125/75-8 Truckdäck Elast CO SC20 sit NM
+125758ECOSCS20|125/75-8 Truckdäck Elast CO CS20 sit
+125758ECOSCS20NM|125/75-8 Truckdäck Elast CS20 sit NM
+135006SL|13x5.00-6 Slang TR87
+13SL|155/165-13 Slang TR13
+140024LBRVCHS|1400R24 Truckdäck Luftg BRVCHS
+140024SL|14.00x24 Slang TR179
+140559ECOS20|140/55-9 Truckdäck Elast CO SC20 sit
+140559ECOS20NM|140/55-9 Truckdäck Elast CO SC20 sit NM
+140559ECOSCS20NM|140/55-9 Truckdäck Elast CO CS20 sit NM
+140559ETRXP1000L|140/55-9 Truckdäck Elast XP1000 Loc
+140559ETRXP700L|140/55-9 Truckdäck Elast XP700 Loc
+140559ETRXP800L|140/55-9 Truckdäck Elast XP800 Loc
+150758EBAS|150/75-8 Truckdäck Elast BA sit
+150758ECO20|150/75-8 Truckdäck Elast CO SC20
+150758ECOS20|150/75-8 Truckdäck Elast CO SC20 sit
+150758ECOS20NM|150/75-8 Truckdäck Elast CO SC20 sit NM
+150758ECOSCS20|150/75-8 Truckdäck Elast CO CS20 sit
+150758ECOSCS20NM|150/75-8 Truckdäck Elast CS20 sit NM
+15458ETRXP1000L|15x4.5-8 Truckdäck Elast XP1000 Loc
+15458ETRXP700L|15x4.5-8 Truckdäck Elast XP700 Loc
+15458ETRXP800L|15x4.5-8 Truckdäck Elast XP800 Loc
+15458LCO|15x4.5-8/12 TruckdäckLuftg IC36
+15458SLCO|15x4.5-8 Slang CO TR87
+1560062CATM|15x6.00-6 2pr CA Turf Mate
+156006SL|15x6.00-6 Slang
+15SL|175/185-15 Slang TR13
+166508LBKT|16x6.50-8 6pr BKT LG306
+166508LTS|16x6.50-8 6PR Däck TS
+166508SL|16x6.50/7.50-8 Slang TR13
+1668ETRXP1000L|16x6-8 Truckdäck Elast XP1000 Loc
+1668ETRXP700L|16x6-8 Truckdäck Elast XP700 Loc
+1668ETRXP800L|16x6-8 Truckdäck Elast XP800 Loc
+16SL|175/185-16 Slang TR13
+180708EBAS|180/70-8 Truckdäck Elast BA sit
+180708ECO20|180/70-8 Truckdäck Elast CO SC20
+180708ECOS20|180/70-8 Truckdäck Elast CO SC20 sit
+180708ECOS20NM|180/70-8 Truckdäck Elast CO SC20 sit NM
+180708ECOSCS20|180/70-8 Truckdäck Elast CO CS20 sit
+180708ECOSCS20NM|180/70-8 Truckdäck Elast CO CS20 sit NM
+1878ETRXP1000L|18x7-8 Truckdäck Elast XP1000 Loc
+1878ETRXP800L|18x7-8 Truckdäck Elast XP800 Loc
+1878LBKTPTHD|18x7-8 16pr Truckdäck Luftg BKT PT-HD
+1878LCO|18x7-8/16 Truckdäck Luftg IC40
+1878LTR9|18x7-8 16pr Truckdäck Luftg TR9
+1878SL|18x7-8 Slang JS2
+1878SLCO|18x7-8 Slang CO 41.5G70
+2005010EBKTMAGL|200/50-10 Truckdäck Elast Maglift Lip
+2005010ECOS20|200/50-10 Truckdäck Elast CO SC20 sit
+2005010ECOS20NM|200/50-10 Truckdäck Elast CO SC20 sit NM
+2005010ECOSCS20|200/50-10 Truckdäck Elast CO CS20 sit
+2005010ETRXP700L|200/50-10 Truckdäck Elast XP700 Loc
+2005010ETRXP800L|200/50-10 Truckdäck Elast XP800 Loc
+200759ECOS20|200/75-9 Truckdäck Elast CO SC20 sit
+2257510ECOS20|225/75-10 Truckdäck Elast CO SC20 sit
+2257515ECOS20|225/75-15 Truckdäck Elast CO SC20 sit
+231012ETRXP1000L|23x10-12 Truckdäck Elast XP1000 Loc
+231012LTR9|23x10-12 20pr Truckdäck Luftg TR9
+231012SL|23x10-12 Slang JS2
+23910ETRXP1000L|23x9-10 Truckdäck Elast XP1000 Loc
+23910ETRXP700L|23x9-10 Truckdäck Elast XP700 Loc
+23910ETRXP800L|23x9-10 Truckdäck Elast XP800 Loc
+23910LBKTPTHD|23x9-10 20pr Truckdäck Luftg BKT PT-HD
+23910LTR9|23x9-10 20pr Truckdäck Luftg TR9
+23910SL|23x9-10 Slang JS2
+25015LBKTPTHD|250-15 20pr Truckdäck Luftg PTHD
+25015LCO|250x15/18 Truckdäck Luftg IC40
+25015LTR9|250-15 20pr Truckdäck Luftg TR9
+2506012ECOS20|250/60-12 Truckdäck Elast CO SC20 sit
+2507015ECOS20|250/70-15 Truckdäck Elast CO SC20 sit
+2507512ECOS20|250/75-12 Truckdäck Elast CO SC20 sit
+271012ETRXP1000L|27x10-12 Truckdäck Elast XP1000 Loc
+271012LTR9|27x10-12 16pr Truckdäck Luftg TR9
+271012SL|27x10-12 Slang TR75A
+28915ETRXP1000L|28x9-15 Truckdäck Elast XP1000 Loc
+28915ETRXP800L|28x9-15 Truckdäck Elast XP800 Loc
+30015ETRXP1000L|300-15 Truckdäck Elast XP1000 Loc
+30015LTR9|300-15 20pr Truckdäck Luftg TR9
+30015SL|300x15 Slang TR75A
+3004ECO|3.00x4 Truckdäck Elast CO MIL
+3004LCO|3.00x4/4 Truckdäck Luftg IC10
+3004SL|2.50/3.00-4 Slang 7777/90/90
+301|Montering LV
+302|Skiftning LV
+303|Balansering LV
+3154512ECOS20|315/45-12 Truckdäck Elast CO SC20 sit
+3155015ECOS20|315/50-15 Truckdäck Elast CO SC20 sit
+3554515ECOS20|355/45-15 Truckdäck Elast CO SC20 sit
+3554515ETRXP1000L|355/45-15 Truckdäck Elast XP1000 Loc
+3554515ETRXP800L|355/45-15 Truckdäck Elast XP800 Loc
+3555015ECOS20|355/50-15 Truckdäck Elast CO SC20 sit
+3555015ETRXP1000L|355/50-15 Truckdäck Elast XP1000 Loc
+3555015ETRXP800L|355/50-15 Truckdäck Elast XP800 Loc
+3556515ECOS20|355/65-15 Truckdäck Elast CO SC20 sit
+3556515LCO|355/65-15/24 TruckdäckLuftg IC40
+3505EPRE|3.50x5 Truckdäck Elast PRE
+3505SL|3.50-5 Slang TR87
+3506LDU|3.50-6 4pr DU HF207
+3506SL|3.50x6 Slang TR13
+350|Tillbehör, delar, mm
+4004EC10|4.00x4 Truckdäck Elast CO SC10
+4004LCO|4.00x4/4 Truckdäck Luftg IC10
+4004SL|4.00-4 Slang TR87
+4006LDU|4.00-6 4pr DU HF230
+4006SL|3.50/4.00x6 Slang TR13
+4008ECO|4.00x8 Truckdäck Elast CO SC20
+4008ECOS20|4.00x8 Truckdäck Elast CO SC20 sit
+4008ECOS20NM|4.00x8 Truckdäck Elast CO SC20 sit NM
+4008ECOSCS20|4.00-8 Truckdäck Elast CO CS20 sit
+4008LCO|4.00x8/10 Truckdäck Luftg IC10
+4008LTR|4.00x8 4pr Däck T991
+4008SL|4.00x8 Slang JS2
+401|Mont. och Balans MC-däck
+402|Ventil
+403|Ventil kromad
+4103504SL|4.10/3.50-4 Slang TR87
+4103506SL|4.10/3.50-6 Slang TR87
+5008ECO20|5.00x8 Truckdäck Elast CO SC20
+5008ECOS20|5.00x8 Truckdäck Elast CO SC20 sit
+5008ETRXP800|5.00-8 Truckdäck Elast XP800
+5008LCO10|5.00x8/8 Truckdäck Luftg IC10
+5008LTR9|5.00x8 10pr Truckdäck Luftg TR9
+5008SL|5.00x8 Slang JS2
+501|Balansering
+502|Förvaring
+503|Hjultvätt
+504|Montering
+505|Montering och Balansering
+506|Mont.Skiftn. och Balans
+507|Rep. av punktering
+508|Skiftning
+509|Skiftn.Förvar.Hjultv.en säsong
+510|Slangrep.
+511|Däckskifte en säsong
+512|Rep. av punktering enkel
+520|4 st Skiftn + 2 st Balans
+6009EBKTMAGL|6.00-9 Truckdäck Elast Maglift Lip
+6009ECO20|6.00x9 Truckdäck Elast CO SC20
+6009ECOS20|6.00x9 Truckdäck Elast CO SC20 sit
+6009ETRXP800L|6.00-9 Truckdäck Elast XP800 Loc
+6009HSLDU|6.00x9/10 High Speed DU HF269
+6009LBKTPTHD|6.00-9 10pr Truckdäck Luftg BKT PT-HD
+6009LCO|6.00x9/12 Truckdäck Luftg IC40
+6009LTR9|6.00x9 12pr Truckdäck Luftg TR9
+6009SLCO|6.00-9 Slang CO V6-02-1
+6009SLTR15|6.00x9 Slang TR15
+601|Balansering
+602|Förvaring
+603|Hjultvätt
+604|Montering
+605|Montering och Balansering
+606|Mont. Skiftn. Balans
+607|Rep. av punktering
+608|Skiftning
+609|Skiftn.Förvar.Hj.tvätt en säso
+610|Slangrep.
+611|Däckskifte en säsong
+612|Rep. av punktering enkel
+620|4 st Skiftn + 2 st Balans
+65010ECO20|6.50x10 Truckdäck Elast CO SC20
+65010ECOS20|6.50x10 Truckdäck Elast CO SC20 sit
+65010ETRXP1000L|6.50-10 Truckdäck Elast XP1000 Loc
+65010ETRXP700L|6.50-10 Truckdäck Elast XP700 Loc
+65010ETRXP800L|6.50-10 Truckdäck Elast XP800 Loc
+65010LTR9|6.50x10 12pr Truckdäck Luftg TR9
+65010SL|6.50x10 Slang JS2
+65010SLCO|6.50-10 Slang CO V3-02-19
+700|Däckskifte
+70012ECO20|7.00x12 Truckdäck Elast CO SC20
+70012ECOS20|7.00x12 Truckdäck Elast CO SC20 sit
+70012ECOSCS20|7.00-12 Truckdäck Elast CO CS20 sit
+70012ETRXP1000L|7.00-12 Truckdäck Elast XP1000 Loc
+70012ETRXP700L|7.00-12 Truckdäck Elast XP700 Loc
+70012ETRXP800L|7.00-12 Truckdäck Elast XP800 Loc
+70012LBKTPTHD|7.00-12 14pr Truckdäck Luftg BKT PT-HD
+70012LCO|7.00x12/14 Truckdäck Luftg IC40
+70012LTR9|7.00-12 14pr Truckdäck Luftg TR9
+70012SL|7.00x12 Slang TR75A
+70012SLCO|7.00-12 Slang CO 75D V3-02-27
+701|Balansering
+702|Förvaring
+703|Hjultvätt
+704|Montering
+705|Montering och Balansering
+706|Mont.,Skiftn. och Balans
+707|Rep. av punktering
+708|Skiftning
+709|Skiftn,Förvar,Hjultv.en säsong
+710|Slangrep.
+711|Däckskifte en säsong
+712|Rep. av punktering enkel
+720|4 st Skiftn + 2 st Balans
+75015ECOS20|7.50x15 Truckdäck Elast CO SC20 sit
+75015SL|7.50x15 Slang TR75A
+801|Balansering
+802|Förvaring
+803|Hjultvätt
+804|Montering
+805|Montering och Balansering
+806|Mont.Skiftn.Balansering
+807|Rep. av punktering
+808|Skiftning
+809|Skiftn.Förvar.Hj.tvätt en säso
+810|Slangrep.
+811|Däckskifte en säsong
+812|Rep. av punktering enkel
+81515LBKTPTHD|8.15-15 14pr Truckdäck Luftg PT-HD
+81515LCO|8.15x15/14 Truckdäck Luftg IC40
+81515LCORT20|225/75R15 Truckdäck Luftg CORT20
+81515LTR9|8.15x15 14pr Truckdäck Luftg TR9
+81515SL|8.15x15 Slang TR177A
+820|4 st Skiftn + 2 st Balans
+82515ECOS20|8.25x15 Truckdäck Elast CO SC20 sit
+82515LBKTPTHD|8.25-15 14pr Truckdäck Luftg BKT PT-HD
+82515LTR9|8.25x15 14pr Truckdäck Luftg TR9
+82515SL|8.25x15 Slang TR177A
+840|Pressning 4.00-8
+841|Pressning 315/45-12
+842|Pressning 180/60-10
+843|Pressning 140/55-9
+844|Pressning 3.50x5
+845|Pressning 355/65-15
+846|Pressning 315/70-15
+847|Pressning 250/70-15
+848|Pressning 200/50-10
+849|Pressning 140/55-6
+850|Pressning 355/50-15
+851|Pressning 5.00x8
+852|Pressning 125/75-8
+853|Pressning 150/75-8
+854|Pressning 180/70-8
+855|Pressning 6.00x9
+856|Pressning 200/75-9
+857|Pressning 6.50x10
+858|Pressning 225/75-10
+859|Pressning 7.00x12
+860|Pressning 250/75-12
+861|Pressning 7.00-15/7.50-15
+862|Pressning 225/75-15
+863|Pressning 8.25x15
+864|Pressning 355/45-15
+865|Pressning 32x12.1-15
+866|Pressning 250/60-12
+867|Pressning
+868|Pressning
+A110265|85x100-20 Singelrulle NY
+A111439|85x100/102-17 Singelrulle NY/PO
+A11234|85x70-20 Boggierulle PO
+A112665|175x55/60 Styrhjul NY
+A12241|85x90-20 Singelrulle PO
+A13421|175x55-20 Styrhjul NY
+A14422|175x55-20 Styrhjul NY/PO
+A15075|70x70/70-20 Boggierulle PDS
+A15198|70x70/70-20 Boggierulle PO
+A21001|Låspinne
+A21175|85x73/77-20 Boggierulle PO
+A23385|85x100/102-20 Singelrulle PO
+A25860|85x70/75-20 Boggierulle PO
+A31029|150x50-20 Stödhjul VU
+A32962|140x80-20 Stödhjul VU
+A34520|200x50/56-20 Stödhjul PO
+A36590|Bult M14x1,50 L30 Plan Sats 7st
+A37520|80x35-20 Hjul VU
+A41599|330x135 Drivhjul 7hål VU
+A42752|310x120 Drivhjul 5hål VU
+A43161|250x105 Drivhjul 5hål PO
+A44121|254x102 Drivhjul 5hål VU
+A45667|310x110 Drivhjul 5hål VU
+A46500|250x92 Drivhjul 5hål VU
+A51400|310x120 Drivhjul 7hål VU
+A52251|350x155 Drivhjul 7hål VU
+A55457|250x75 Drivhjul 5hål VU
+B11320|85x75/80-25 Boggierulle PO
+B12380|85x80/85-25 Boggierulle PO
+B21500|150x55/60-20 Stödhjul PO
+B22180|140x55/60-20 Stödhjul PO
+B27509|125x50/55-20 Stödhjul VU
+B31100|230x82 Drivhjul 5hål VU
+B32011|250x105 Drivhjul 5hål VU
+B35813|250x100 Drivhjul 5hål VU
+B41648|343x114 Drivhjul 7hål VU
+B52189|360x130 Drivhjul 7hål VU
+BM12|Bult, Mutter och Bricka
+BM14|Bult, Mutter och Bricka
+C11209|250x105 Drivhjul 5hål VU
+C12826|230x90 Drivhjul 5hål VU
+C21088|250x100 Drivhjul 5hål VU
+C23590|230x70/82 Drivhjul 5hål VU
+C31248|254x100 Drivhjul 5hål GU
+C32247|254x100 Drivhjul 5hål VU
+C33030|250x80 Drivhjul 5hål TT
+FG1580233|Fälg 4.33-8
+FG1580257|Fälg 4.33-8
+FG1590115|Fälg 4.0-9
+FG1600243|Fälg 6.5-10
+FG1620252|Fälg 8.0-12
+FG1650787|Fälg 7.0-15
+FG2590017|Fälg 6.0-9
+FG2590031|Fälg 6.0-9
+FG2600020|Fälg 6.5-10
+FG2600034|Fälg 5.0-10
+FG2600087|Fälg 6.5-10
+FG2620026|Fälg 8.0-12
+FG2620047|Fälg 8.0-12
+FG2620070|Fälg 8.0-12
+FG2650106|Fälg 7.0-15
+FG2650150|Fälg 7.0-15
+FG2650197|Fälg 6.5-15
+FGB04237|Fälg 4.0-9
+FGB08056|Fälg 6.0-9
+FGC09016|Fälg 6.5-10
+FGD06520|Fälg 5.0-12
+FGD12649|Fälg 8.0-12
+FGN08S158|Fälg 4.33-8
+FGN09S122|Fälg 6.0-9
+FGN10S160|Fälg 6.5-10
+FGN12S132|Fälg 8.0-12
+FGN15S379|Fälg 8.0-15
+FS308|Fälgstomme 3.0-8
+FS409|Fälgstomme 4.0-9
+FS4338|Fälgstomme 4.33-8
+FS5010|Fälgstomme 5.0-10
+FS5012|Fälgstomme 5.0-12
+FS609|Fälgstomme 6.0-9
+FS6510|Fälgstomme 6.5-10
+FS7015|Fälgstomme 7.0-15
+FS8012|Fälgstomme 8.0-12
+FS97515|Fälgstomme 9.75-15
+HM11|Skruvdubb MG 11mm 100st
+HM15|Skruvdubb MG 15mm 200st
+HM18|Skruvdubb MG 18mm 200st
+HM25|Skruvdubb MG 25mm 200st
+KR308|Kilring 3.0-8
+KR409|Kilring 4.0/6.0-9
+KR5010|Kilring 5.0/6.5-10
+KR5012|Kilring 5.0-12
+KR7015|Kilring 6.5/7.0/8.0/9.75-15
+KR8012|Kilring 8.0-12
+LA6004Z|Kullager 42x12x20
+LA6005RS|Kullager 47x12x25
+LA6204RS|Kullager 47x14x20
+LR308|Låsring 3.0-8
+LR409|Låsring 4.0/6.0-9
+LR4338|Låsring 4.33-8
+LR5010|Låsring 5.0/6.5-10
+LR5012|Låsring 5.0-12
+LR7015|Låsring 6.5/7.0/9.75-15
+LR8012|Låsring 8.0-12
+MBL|Monteringsbricka Liten
+MBS|Monteringsbricka stor
+OKO|OKO Punkteringsskydd
+PERMAC|Permacplugg 50st
+PREMA|Premaplugg 100mm 30st
+SERV-1878ETRXP800L|18x7-8 Utb.hjul Elast XP800 Loc
+SERV-2005010ECOS20|200/50-10 Truckdäck Elast CO SC20 sit
+SERV-231012LTR9|23x10-12 Truckdäck Luftg TR9
+SERV-25015LTR9UTB|250-15 Utb.hjul Luftg Sajp
+SERV-65010LTR9UTB|Utb.hjul 6.50-10 Luftg Sajp
+SERV-70012LTR9|Utb.hjul 7.00-12 Luftg inkl åva och MO
+SERV-70012SLCO|7.00-12 Slang CO 75D
+SERV-81515SL|8.15-15 Slang V3-04-22
+SERV-DUBB|Dubbning 17-12
+SERV-SAJP|Sajpning
+SERV-UH1668|Utb.hjul 150/75-8 Elast
+SERV-UH1878|Utb.hjul 180/70-8 Elast
+SERV-UH2005010|Utb.Hjul 200/50-10 Elast
+SERV-UH231012|Utb.hjul 250/60-12 Elast
+SERV-UH23910|Utb.hjul 225/75-10 Elast
+SERV-UH6009|Utb.hjul 6.00-9 Elast
+SERV-UH65010|Utb.hjul 6.50-10 Elast
+SERV-UH70012|Utb.Hjul 7.00-12 Elast
+SERV-UH82515|Utb.hjul 8.25-15 Elast
+SK1878|Snökedja 18x7-8 ETL5.5
+SK23910|Snökedja 23x9-10 ETL5.5
+SK25015|Snökedja 250x15 ETL7
+SK6009|Snökedja 6.00x9 ETL5.5
+SK65010|Snökedja 6.50x10 ETL5.5
+SK70012|Snökedja 7.00x12 ETL7
+SK81515|Snökedja 8.15x15 ETL7
+SK82515|Snökedja 8.25x15 ETL7
+SR308|Sidring 3.0-8
+SR409|Sidring 4.0/6.0-9
+SR4338|Sidring 4.33-8
+SR5010|Sidring 5.0/6.5-10
+SR5012|Sidring 5.0-12
+SR7015|Sidring 6.5/7.0/9.75-15
+SR8012|Sidring 8.0-12
+VentilTR412|Ventil Snap-in TR412
+VentilTR413|Ventil Snap-in TR413
+VF127|Ventilförlängare Metall L127/T140,5
+VF34|Ventilförlängare Metall L34/T42,5
+VF54|Ventilförlängare Metall L54/T62,5
+VF94|Ventilförlängare Metall L94/T102,5
+VFEM125|Ventilförlängare EM L125/T142 Metall
+VFEM225|Ventilförlängare EM L225/T245 Metall
+VFF134|Ventilförlängare Flex GU L125/T134
+VFF187|Ventilförlängare Flex GU L180/T187
+VH|Ventilhållare Metall
+W2|W2 Mönsterknivar 20st
+W3|W3 Mönsterknivar 20st
+W4|W4 Mönsterknivar 9-10mm 20st
+W5|W5 Mönsterknivar 10-14mm 20st
