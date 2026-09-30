@@ -1,0 +1,21 @@
+services:
+  mft-harness-01:
+    image: mft-harness-01
+    build: ./build
+    container_name: mft-harness-01
+    hostname: mft-harness-01
+    environment:
+      - MFT_HARNESS_01_SFTP_SERVER_FQDN
+      - MFT_HARNESS_01_SFTP_SERVER_PORT
+      - MFT_HARNESS_01_SFTP_CLIENT_USER_NAME
+      - MFT_HARNESS_01_SFTP_CLIENT_USER_PASSWORD
+      - MFT_HARNESS_01_SFTP_BASE_UPLOAD_DIR
+      - MFT_HARNESS_01_DEBUG
+    volumes:
+      - ./fixtures:/fixtures
+      - ./scripts:/scripts
+      - mft-harness-01-ssh-cache:/ssh-cache
+    entrypoint: /scripts/entrypoint.sh
+
+volumes:
+  mft-harness-01-ssh-cache:
